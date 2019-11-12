@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="pxLogin">#5f6468</color>
+
+    <color name="pxGrayWhite">#CCCCCC</color>
+
+    <color name="pxGrayWhite2">#CCD2D6</color>
+
+    <color name="pxSignup">#5f6468</color>
+
+    <color name="pxClear">#00FFFFFF</color>
+
+    <color name="pxWhite">#FFFFFF</color>
+
+    <color name="pxLightGrey">#F7F8FA</color>
+    <color name="pxLightGrey4">#F8F8F8</color>
+    <color name="pxLightGrey5">#F0F0F0</color>
+
+    <color name="pxLightGrey2">#EEEFF2</color>
+
+    <color name="pxLightGrey3">#E6FFFFFF</color>
+
+    <color name="pxMediumGrey">#71767A</color>
+
+    <color name="pxDarkGrey">#525558</color>
+
+    <color name="pxVeryDarkGrey">#222222</color>
+
+    <color name="pxVeryDarkGrey1">#333333</color>
+
+    <color name="pxBlue">#0099E5</color>
+
+    <color name="pxBlue1">#00A4DF</color>
+
+    <color name="pxBlueHover">#00AAFF</color>
+
+    <color name="pxRed">#FF4C4C</color>
+
+    <color name="pxRedHover">#FF6666</color>
+
+    <color name="pxGreen">#34BF49</color>
+
+    <color name="pxGreenHover">#41CB56</color>
+
+    <color name="pxGrey">#B9C1C7</color>
+
+    <color name="pxGrey2">#ACAEB0</color>
+
+    <color name="pxGrey3">#a7a7a7</color>
+
+    <color name="pxGreyHover">#C7CED2</color>
+
+    <color name="pxBlack">#000000</color>
+
+    <color name="translucentBlack">#88000000</color>
+
+    <color name="translucentBlack2">#55000000</color>
+
+    <color name="pxBlueDark">#007aff</color>
+
+    <color name="pxWhiteHover">#d5dadd</color>
+
+    <color name="pxBlackGrey">#484848</color>
+
+    <color name="pxBlackGrayo">#71767a</color>
+    <color name="pxYellow">#ffff00</color>
+    <color name="px">#218868</color>
+</resources>
